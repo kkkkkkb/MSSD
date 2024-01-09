@@ -4,4 +4,4 @@ We develop a multispectral small ship detection dataset from the Sentinel-2 sate
 # Download dataset
 [Google Drive](https://drive.google.com/file/d/1dHPPs9um0tIPx58VtrR732gwgXypoxu-/view?usp=sharing)
 
-The annotations are in YOLO format, i.e. [class_id, x_center, y_center, width, height]
+The annotations are in YOLO format, i.e. [class_id, x_center, y_center, width, height].
